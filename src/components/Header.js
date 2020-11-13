@@ -6,7 +6,7 @@ export default class Header extends Component {
         return (
             <React.Fragment>
                 {/* <p className="navbar-dropdown">Test</p> */}
-                <section className="menu cid-rbrY7ExFmu" once="menu" id="menu1-m">
+                {/* <section className="menu cid-rbrY7ExFmu" once="menu" id="menu1-m">
                     <nav className="navbar navbar-dropdown beta-menu align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
 
                         <div className="menu-bottom">
@@ -146,7 +146,7 @@ export default class Header extends Component {
                             </div>
                         </div>
                     </nav>
-                </section>
+                </section> */}
 
                 <section className="header4 cid-r7bY6IxYOZ mbr-parallax-background" id="header4-2">
 
